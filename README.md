@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/retj00" target="blank"><img src="https://img.shields.io/twitter/follow/retj00?logo=twitter&style=for-the-badge" alt="retj00" /></a> </p>
 
-- 🌱 I’m currently learning **React Native with threejs**
+- 🌱 I’m currently learning **React Native with threejs And C# .NET **
 
 - 📫 How to reach me **retajfaisalalharbi@gmail.com**
 
