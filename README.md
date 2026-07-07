@@ -85,18 +85,21 @@ Passionate about building modern, scalable, and high-performance web application
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=R-1493&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-1493&layout=compact&theme=transparent&hide_border=true"/>
-
+<p align="start">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-1493&theme=github_dark"/>
+</p>
+  
+<p align="start">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=R-1493&theme=github_dark"/>
 </p>
 
-<p align="center">
+<p align="start">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R-1493&theme=github_dark&utcOffset=3"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=R-1493&theme=transparent&hide_border=true"/>
 
+<p align="start">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R-1493&theme=github_dark"/>
 </p>
 
 ---
